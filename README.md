@@ -1,7 +1,7 @@
 
 # Curso de Testes de API Rest com REST-assured
 
-![Testando API Rest com REST-assured](imagens/rest-assured-udemy.png)
+![Testando API Rest com REST-assured](imagens/Screenshot_4.png)
 
 Este projeto faz parte do curso **"Testando API Rest com REST-assured"** ministrado por Francisco Wagner Costa Aquino na Udemy.
 
